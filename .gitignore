@@ -1,1 +1,22 @@
-tools/*.log
+# --- Unity ---
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+CrashReports/
+# --- IDE/OS ---
+.vscode/
+.idea/
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.opendb
+.DS_Store
+Thumbs.db

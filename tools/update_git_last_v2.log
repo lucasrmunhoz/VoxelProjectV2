@@ -1,0 +1,38 @@
+==== Início: 2025-10-19 10:41:04 ====
+Projeto:      /home/lucas/myunity/VoxelNightmareV2
+Scripts em:   /home/lucas/myunity/VoxelNightmareV2/Assets/_Script
+INDEX.md:     /home/lucas/myunity/VoxelNightmareV2/Assets/_Script/INDEX.md
+Remote alvo:  git@github.com:lucasrmunhoz/VoxelProjectV2.git
+Branch:       main
+
+== Duplicação .cs -> .txt (normalizando quebras) ==
+Duplicação concluída (0 arquivos; 0 com contagem diferente).
+
+== Gerando INDEX.md (links RAW) ==
+INDEX.md gerado: /home/lucas/myunity/VoxelNightmareV2/Assets/_Script/INDEX.md
+
+Commit: "Auto-push Voxel V2: lucas-System-Product-Name @ 2025-10-19T10:41:04-03:00"
+
+== Mudanças locais detectadas; salvando stash temporário ==
+Saved working directory and index state On main: auto-stash: updater 2025-10-19_10-41-04
+
+== origin/main não existe (primeiro push criará o upstream) ==
+
+== Reaplicando mudanças locais (stash pop) ==
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   Assets/_Script/INDEX.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (d9e8bbd619e17d8fe4d36a69f923bafddf5c6270)
+
+== Add e Commit ==
+[main 3950426] Auto-push Voxel V2: lucas-System-Product-Name @ 2025-10-19T10:41:04-03:00
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+== Push ==
+❌ Falha inesperada. Veja o log: /home/lucas/myunity/VoxelNightmareV2/tools/update_git_last_v2.log
