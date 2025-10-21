@@ -1,0 +1,12 @@
+{
+  "name": "Voxel2.Editor",
+  "rootNamespace": "Voxel2.Editor",
+  "references": [ "Voxel2.Core", "Voxel2.Runtime", "Voxel2.Rendering", "Voxel2.Telemetry" ],
+  "includePlatforms": [ "Editor" ],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "noEngineReferences": false
+}

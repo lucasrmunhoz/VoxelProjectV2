@@ -1,0 +1,12 @@
+{
+  "name": "Voxel2.Config",
+  "rootNamespace": "Voxel2.Config",
+  "references": [],
+  "includePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "noEngineReferences": false
+}

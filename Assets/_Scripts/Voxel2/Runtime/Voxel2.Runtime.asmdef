@@ -1,0 +1,15 @@
+{
+  "name": "Voxel2.Runtime",
+  "rootNamespace": "Voxel2.Runtime",
+  "references": [
+    "Voxel2.Config",
+    "Voxel2.Core"
+  ],
+  "includePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "noEngineReferences": false
+}

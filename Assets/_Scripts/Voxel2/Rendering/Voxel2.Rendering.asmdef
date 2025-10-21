@@ -1,0 +1,12 @@
+{
+  "name": "Voxel2.Rendering",
+  "rootNamespace": "Voxel2.Rendering",
+  "references": [ "Voxel2.Core" ],
+  "includePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "noEngineReferences": false
+}
