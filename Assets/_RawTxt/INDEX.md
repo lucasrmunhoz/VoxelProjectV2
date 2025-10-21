@@ -1,7 +1,7 @@
 # Scripts RAW Index
 
 - **Árvore no GitHub**: https://github.com/lucasrmunhoz/VoxelProjectV2/tree/main/Assets/_RawTxt
-- **Gerado em**: 2025-10-21 10:02:06
+- **Gerado em**: 2025-10-21 10:20:15
 
 
 ## Resources
